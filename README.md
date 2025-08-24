@@ -1,6 +1,2 @@
-@catkillsreality / @ctkllsrlty
-
-java enjoyer
-
-minecraft modder
-
+@aetherwingz
+C++ / Java

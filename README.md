@@ -1,11 +1,7 @@
 @aetherwingz
 
-Java
-
-C++ (awful language)
+C++
 
 C#
 
-more or less vulkan graphics programmer
-
-game/engine dev
+vulkan graphics programmer

@@ -1,4 +1,4 @@
-@aetherwingz
+@aetherwingz (on discord and most other platforms)
 
 C++
 

@@ -1,7 +1,3 @@
-@aetherwingz (on discord and most other platforms)
+@aetherwingz
 
-C++
-
-C#
-
-vulkan graphics programmer
+C++ / C# / Rust / Vulkan
